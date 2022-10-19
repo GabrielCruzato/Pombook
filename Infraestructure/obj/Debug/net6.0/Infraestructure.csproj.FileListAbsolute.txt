@@ -1,0 +1,12 @@
+C:\Users\gabri\source\repos\Social Media\Infraestructure\bin\Debug\net6.0\Infraestructure.deps.json
+C:\Users\gabri\source\repos\Social Media\Infraestructure\bin\Debug\net6.0\Infraestructure.dll
+C:\Users\gabri\source\repos\Social Media\Infraestructure\bin\Debug\net6.0\Infraestructure.pdb
+C:\Users\gabri\source\repos\Social Media\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\Social Media\Infraestructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Social Media\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Social Media\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Social Media\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Social Media\Infraestructure\obj\Debug\net6.0\Infraestructure.dll
+C:\Users\gabri\source\repos\Social Media\Infraestructure\obj\Debug\net6.0\refint\Infraestructure.dll
+C:\Users\gabri\source\repos\Social Media\Infraestructure\obj\Debug\net6.0\Infraestructure.pdb
+C:\Users\gabri\source\repos\Social Media\Infraestructure\obj\Debug\net6.0\ref\Infraestructure.dll
